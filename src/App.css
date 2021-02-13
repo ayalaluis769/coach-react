@@ -1,0 +1,26 @@
+.heading{
+  font-family: 'Potta One', cursive;
+  color: gold;
+  background-image: linear-gradient(to bottom, lightskyblue,blue,darkblue,black);
+}
+
+.footer{
+  background-image: linear-gradient(to bottom, lightskyblue,blue,darkblue,black);
+  padding: 20px 0;
+}
+
+.instagram{
+  color: magenta;
+}
+
+.google{
+  color: red;
+}
+
+.twitter{
+  color: mediumaquamarine;
+}
+
+.facebook{
+  color: white;
+}
